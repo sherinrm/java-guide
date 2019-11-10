@@ -1,9 +1,9 @@
-Java tutorial
-all keywords should start with small letter
-all classes should start with Capital Letter.
-Main method should be there for the java program.Main method is the starting or execution point of the java program.
+# Java tutorial
+* all keywords should start with small letter
+* all classes should start with Capital Letter.
+* Main method should be there for the java program.Main method is the starting or execution point of the java program.
 
-# Datatypes
+## Datatypes
 1. integer
    int i = 10;
    * cannot have duplicate variables.
